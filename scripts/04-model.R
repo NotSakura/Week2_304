@@ -1,11 +1,8 @@
 #### Preamble ####
-# Purpose: Models... [...UPDATE THIS...]
-# Author: Rohan Alexander [...UPDATE THIS...]
-# Date: 11 February 2023 [...UPDATE THIS...]
-# Contact: rohan.alexander@utoronto.ca [...UPDATE THIS...]
-# License: MIT
-# Pre-requisites: [...UPDATE THIS...]
-# Any other information needed? [...UPDATE THIS...]
+# Purpose: Simulates marriage licence data
+# Author: Sakura Noskor
+# Date: 2024-09-19
+# Contact: sakura.noskor@mail.utoronto.ca
 
 
 #### Workspace setup ####
