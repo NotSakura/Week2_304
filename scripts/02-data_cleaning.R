@@ -25,3 +25,4 @@ cleaned_data <-
 
 #### Save data ####
 write_csv(cleaned_data, "data/raw_data/cleaned_data.csv")
+write_csv(cleaned_data, "data/analysis_data/cleaned_data.csv")
