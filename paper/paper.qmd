@@ -41,12 +41,7 @@ Some of our data is of penguins (@fig-mar).
 data |> ggplot(aes(x = date, y = marriage_licenses)) + geom_point()
 ```
 
-Talk more about it.
-
-And also planes . (You can change the height and width, but don't worry about doing that until you have finished every other aspect of the paper - Quarto will try to make it look nice and the defaults usually work well once you have enough text.)
-
-
-Talk way more about it. 
+The figure shows that there is a periodic change in trends between mariage licence and time [@fig-mar].
 
 
 
